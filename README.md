@@ -8,7 +8,7 @@ Feel free to get in contact!
 ### - Languages and Tools...
 
 <p align="center">
- <img src="https://simpleicons.org/icons/html5.svg" alt="HTML" style="vertical-align:top; margin:4px"/>
+ <img src="https://simpleicons.org/icons/html5.svg" width="50" alt="HTML" style="vertical-align:top; margin:4px"/>
  <img src="https://simpleicons.org/icons/javascript.svg" alt="JS" style="vertical-align:top; margin:4px"/>
  <img src="https://simpleicons.org/icons/css3.svg" alt="JS" style="vertical-align:top; margin:4px"/>
  <img src="https://simpleicons.org/icons/react.svg" alt="React" style="vertical-align:top; margin:4px"/>
