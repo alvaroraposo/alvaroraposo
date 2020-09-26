@@ -18,6 +18,14 @@ Feel free to get in touch!
  <img src="https://simpleicons.org/icons/python.svg" width="50" alt="Python" style="vertical-align:top; margin:4px"> 
  <img src="https://simpleicons.org/icons/dot-net.svg" width="50" alt="C#" style="vertical-align:top; margin:4px">
  <img src="https://simpleicons.org/icons/csharp.svg" width="50" alt="C#" style="vertical-align:top; margin:4px">  
+  <ul class="grid">
+            <li class="grid-item--if-empty">
+                Icon missing? Request it <a href="https://github.com/simple-icons/simple-icons/issues/new?template=icon_request.md">here</a>.
+            </li>
+            <li class="grid-item grid-item--ad">
+                <script async="" type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CKYIPK7M&amp;placement=simpleiconsorg" id="_carbonads_js"></script><div id="carbonads"><span><span class="carbon-wrap"><a href="https://srv.carbonads.net/ads/click/x/GTND42JEC6YIP53ICYSLYKQNCTYD527NCEYDTZ3JCYYDT27MCABDEKJKC67IEKQNCVYIL2JYFTSI5KQUFT7I6K3LHEYIKK3JC6SD4KJECTNCYBZ52K?segment=placement:simpleiconsorg;" class="carbon-img" target="_blank" rel="noopener sponsored"><img src="https://cdn4.buysellads.net/uu/1/41334/1550855374-cc_light.png" alt="ads via Carbon" style="max-width: 130px;" border="0"></a><a href="https://srv.carbonads.net/ads/click/x/GTND42JEC6YIP53ICYSLYKQNCTYD527NCEYDTZ3JCYYDT27MCABDEKJKC67IEKQNCVYIL2JYFTSI5KQUFT7I6K3LHEYIKK3JC6SD4KJECTNCYBZ52K?segment=placement:simpleiconsorg;" class="carbon-text" target="_blank" rel="noopener sponsored">Students and Teachers, save up to 60% on Adobe Creative Cloud.</a></span><a href="http://carbonads.net/?utm_source=simpleiconsorg&amp;utm_medium=ad_via_link&amp;utm_campaign=in_unit&amp;utm_term=carbon" class="carbon-poweredby" target="_blank" rel="noopener sponsored">ads via Carbon</a></span></div>
+            </li>
+  </ul>
 </p>
 <!--
 **alvaroraposo/alvaroraposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
