@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/alvaro-raposo/">
-  <img align="left" alt="Linkedin" width="50px" src="https://github.com/alvaroraposo/alvaroraposo/blob/master/linkedinlogo.png" />
+  <img align="left" alt="Linkedin" width="30px" src="https://github.com/alvaroraposo/alvaroraposo/blob/master/linkedinlogo.png" />
 </a>
 Feel free to get in contact!
 <!--
