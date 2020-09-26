@@ -18,7 +18,12 @@ Feel free to get in touch!
  <img src="https://simpleicons.org/icons/python.svg" width="50" alt="Python" style="vertical-align:top; margin:4px"> 
  <img src="https://simpleicons.org/icons/dot-net.svg" width="50" alt="C#" style="vertical-align:top; margin:4px">
  <img src="https://simpleicons.org/icons/csharp.svg" width="50" alt="C#" style="vertical-align:top; margin:4px">  
-  <img src="https://github.com/alvaroraposo/alvaroraposo/blob/master/teste.svg" width="50" alt="C#" style="vertical-align:top; margin:4px">  
+<li class="grid-item grid-item--light" style="background-color: rgb(0, 119, 181); --order-alpha: 710; --order-relevance:28;">
+                    <a class="grid-item__link" href="/icons/linkedin.svg" download="">                                                
+                        <h2 class="grid-item__title">LinkedIn</h2>
+                    </a>
+                    <p class="grid-item__subtitle">#0077B5</p>
+                </li>
 </p>
 <!--
 **alvaroraposo/alvaroraposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
