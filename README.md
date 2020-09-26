@@ -15,7 +15,6 @@ Feel free to get in touch!
  <img src="https://simpleicons.org/icons/npm.svg" width="50" alt="NPM" style="vertical-align:top; margin:4px"/>
  <img src="https://simpleicons.org/icons/amazonaws.svg" width="50" alt="AWS" style="vertical-align:top; margin:4px"/> 
  <img src="https://simpleicons.org/icons/visualstudiocode.svg" width="50" alt="Visual Studio Code" style="vertical-align:top; margin:4px"/>
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" width="50" alt="Data Science" style="vertical-align:top; margin:4px">
  <img src="https://simpleicons.org/icons/python.svg" width="50" alt="Python" style="vertical-align:top; margin:4px"> 
  <img src="https://simpleicons.org/icons/dot-net.svg" width="50" alt="C#" style="vertical-align:top; margin:4px">
  <img src="https://simpleicons.org/icons/csharp.svg" width="50" alt="C#" style="vertical-align:top; margin:4px">  
