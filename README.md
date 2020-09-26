@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/alvaro-raposo/">
-  <img align="left" alt="Linkedin" width="50px" src="https://w7.pngwing.com/pngs/973/277/png-transparent-blue-and-white-in-social-media-linkedin-computer-icons-website-button-get-linkedin-logo-s-miscellaneous-blue-text.png" />
+  <img align="left" alt="Linkedin" width="50px" src="https://github.com/alvaroraposo/alvaroraposo/blob/master/linkedinlogo.png" />
 </a>
-
+Feel free to get in contact!
 <!--
 **alvaroraposo/alvaroraposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
