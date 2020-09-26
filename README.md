@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/alvaro-raposo/">
-  <img align="left" alt="Linkedin" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZwan1mt5cw3TwN-EmiX0m5qbiVwI6ej5Zng&usqp=CAU" />
+  <img align="left" alt="Linkedin" width="22px" src="https://w7.pngwing.com/pngs/973/277/png-transparent-blue-and-white-in-social-media-linkedin-computer-icons-website-button-get-linkedin-logo-s-miscellaneous-blue-text.png" />
 </a>
 
 <!--
