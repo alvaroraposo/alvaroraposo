@@ -1,5 +1,8 @@
 ### Hi there 👋
-[LinkedIn] (https://www.linkedin.com/in/alvaro-raposo/)
+
+<a href="https://www.linkedin.com/in/alvaro-raposo/">
+  <img align="left" alt="Linkedin" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZwan1mt5cw3TwN-EmiX0m5qbiVwI6ej5Zng&usqp=CAU" />
+</a>
 
 <!--
 **alvaroraposo/alvaroraposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
