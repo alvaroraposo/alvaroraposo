@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/alvaro-raposo/">
   <img align="left" alt="Linkedin" width="30px" src="https://github.com/alvaroraposo/alvaroraposo/blob/master/linkedinlogo.png" />
 </a>
-Feel free to get in contact!
+Feel free to get in touch!
 
 ### - Languages and Tools...
 
