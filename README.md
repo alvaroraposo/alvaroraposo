@@ -9,7 +9,8 @@ Feel free to get in touch!
 <html>
 <body>
 <table>
-  <tr>      
+  <tr> 
+      -![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
       <td bgcolor="#E34F26" width="85" align="center">          
           <div><img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>HTML 5</div>                   
