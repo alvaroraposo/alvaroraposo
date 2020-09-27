@@ -1,3 +1,4 @@
+# Hi there 👋 
 <table style="text-align:center;">
   <tr> 
       <td style="background: #E34F26" width="85" align="center">          
@@ -47,7 +48,6 @@
   </tr>
 </table>
 
-# Hi there 👋 
 ## Glad to see you here, I hope you find something useful to you. 
 ### Feel free to get in touch!
 
