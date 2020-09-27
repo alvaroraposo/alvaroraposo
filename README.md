@@ -12,7 +12,7 @@
       </td>
       <td style="color: #E34F26" width="85" align="center">          
           <div>
-            <a href="mailto:alvaroraposo@yahoo.com.br">
+            <a href="mailto:alvaroraposo@yahoo.com.br" align="center">
               <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/yahoo.svg" />
             </a>
           </div>
