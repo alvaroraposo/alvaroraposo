@@ -56,7 +56,7 @@ Feel free to get in touch!
       </td> 
       <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/csharp.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
-          <div>Python</div>
+          <div>C#</div>
       </td>    
       <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/amazonaws.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
