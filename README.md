@@ -3,73 +3,73 @@
 ### Here are some technologies and tools I've already worked with.
 <table style="text-align:center;">
   <tr> 
-      <td style="background: #E34F26" width="85" align="center">          
+      <td style="background: #E34F26" width="90" align="center">          
           <div><img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>HTML 5</div>                   
       </td>
-      <td style="background: #F7DF1E" width="85" align="center">
+      <td style="background: #F7DF1E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/javascript.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Javascript</div>
       </td>
-      <td style="background: #1572B6" width="85" align="center">
+      <td style="background: #1572B6" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/css3.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>CSS 3</div>
       </td>
-      <td style="background: #563D7C" width="85" align="center">
+      <td style="background: #563D7C" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/bootstrap.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Bootstrap</div>
       </td>
   </tr>
   <tr>
-      <td style="background: #61DAFB" width="85" align="center">
+      <td style="background: #61DAFB" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/react.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>React</div>
       </td>      
-      <td style="background: #339933" width="85" align="center">
+      <td style="background: #339933" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/node-dot-js.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Node.js</div>
       </td>
-      <td style="background: #232F3E" width="85" align="center">
+      <td style="background: #232F3E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/python.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Python</div>
       </td> 
-      <td style="background: #232F3E" width="85" align="center">
+      <td style="background: #232F3E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/csharp.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>C#</div>
       </td>  
   </tr>
   <tr>
-      <td style="background: #232F3E" width="85" align="center">
+      <td style="background: #232F3E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/mongodb.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
           <div>Mongo DB</div>
       </td>
-      <td style="background: #232F3E" width="85" align="center">
+      <td style="background: #232F3E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
           <div>SQL Server</div>
       </td>
-      <td style="background: #232F3E" width="80" align="center">
+      <td style="background: #232F3E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/amazonaws.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
           <div>Amazon</div>
       </td>
-      <td style="background: #232F3E" width="80" align="center">
+      <td style="background: #232F3E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/docker.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Docker</div>
       </td>
   </tr>
   <tr>
-      <td style="background: #232F3E" width="80" align="center">
+      <td style="background: #232F3E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/netlify.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Netlify</div>
       </td>
-      <td style="background: #232F3E" width="80" align="center">
+      <td style="background: #232F3E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/heroku.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
           <div>Heroku</div>
       </td>
-      <td style="background: #232F3E" width="80" align="center">
+      <td style="background: #232F3E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/linux.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Linux</div>
       </td>
-      <td style="background: #232F3E" width="80" align="center">
+      <td style="background: #232F3E" width="90" align="center">
           <div><img src="https://simpleicons.org/icons/visualstudiocode.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>VS Code</div>
       </td>
