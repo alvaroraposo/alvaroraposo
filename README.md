@@ -8,7 +8,7 @@
           </a>                   
       </td>
       <td style="color: #E34F26" width="85" align="center">          
-          <a href="alvaroraposo@yahoo.com.br">
+          <a href="mailto:alvaroraposo@yahoo.com.br">
             <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/yahoo.svg" />
           </a>                   
       </td>
