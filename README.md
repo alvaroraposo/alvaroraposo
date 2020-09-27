@@ -40,30 +40,30 @@
   </tr>
   <tr>
       <td style="background: #232F3E" width="80" align="center">
-          <div><img src="https://simpleicons.org/icons/docker.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
-          <div>Docker</div>
+          <div><img src="https://simpleicons.org/icons/mongodb.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
+          <div>Mongo DB</div>
       </td>
       <td style="background: #232F3E" width="80" align="center">
-          <div><img src="https://simpleicons.org/icons/heroku.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div><img src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
           <div>Heroku</div>
       </td>
       <td style="background: #232F3E" width="80" align="center">
-          <div><img src="https://simpleicons.org/icons/netlify.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
-          <div>Netlify</div>
+          <div><img src="https://simpleicons.org/icons/amazonaws.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
+          <div>Amazon</div>
       </td>
       <td style="background: #232F3E" width="80" align="center">
-          <div><img src="https://simpleicons.org/icons/sqlserver.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
-          <div>SQL Server</div>
+          <div><img src="https://simpleicons.org/icons/docker.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div>Docker</div>
       </td>
   </tr>
   <tr>
       <td style="background: #232F3E" width="80" align="center">
-          <div><img src="https://simpleicons.org/icons/amazonaws.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
-          <div>Amazon</div>
+          <div><img src="https://simpleicons.org/icons/netlify.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>>
+          <div>Netlify</div>
       </td>
       <td style="background: #232F3E" width="80" align="center">
-          <div><img src="https://simpleicons.org/icons/mongodb.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
-          <div>MongoDB</div>
+          <div><img src="https://simpleicons.org/icons/heroku.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
+          <div>Heroku</div>
       </td>
       <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/linux.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
