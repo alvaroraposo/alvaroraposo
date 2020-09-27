@@ -2,12 +2,12 @@
 
 <table>
   <tr> 
-      <td style="color: #E34F26" width="60" align="center">          
+      <td style="color: #E34F26" width="65" align="center">          
           <a href="https://www.linkedin.com/in/alvaro-raposo/">
             <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />
           </a>                   
       </td>
-      <td style="color: #E34F26" width="60" align="center">          
+      <td style="color: #E34F26" width="65" align="center">          
           <a href="mailto:alvaroraposo@yahoo.com.br">
             <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/yahoo.svg" />
           </a>                   
