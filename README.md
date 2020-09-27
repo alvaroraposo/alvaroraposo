@@ -6,12 +6,10 @@
 Feel free to get in touch!
 
 ### - Languages and Tools...
-<html>
-<body>
+
 <table>
   <tr> 
-      -![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-      <td bgcolor="#E34F26" width="85" align="center">          
+      <td class="#E34F26" width="85" align="center">          
           <div><img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>HTML 5</div>                   
       </td>
@@ -37,8 +35,7 @@ Feel free to get in touch!
       </td>    
   </tr>
 </table>
-</body>
-</html>
+
 <!--
 **alvaroraposo/alvaroraposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
