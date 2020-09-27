@@ -18,7 +18,9 @@
       <td style="background: #563D7C" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/bootstrap.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Bootstrap</div>
-      </td>    
+      </td>
+  </tr>
+  <tr>
       <td style="background: #61DAFB" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/react.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>React</div>
@@ -34,7 +36,9 @@
       <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/csharp.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>C#</div>
-      </td>    
+      </td>  
+  </tr>
+  <tr>
       <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/amazonaws.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Amazon</div>
@@ -46,7 +50,11 @@
       <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/linux.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Linux</div>
-      </td>   
+      </td>
+      <td style="background: #232F3E" width="80" align="center">
+          <div><img src="https://simpleicons.org/icons/visualstudiocode.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div>VS Code</div>
+      </td>
   </tr>
 </table>
 
