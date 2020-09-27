@@ -9,7 +9,7 @@ Feel free to get in touch!
 
 <table>
   <tr>
-      <td style="background: #E34F26" width="85" align="center">
+      <td color="#E34F26" style="background: #E34F26" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>HTML 5</div>                   
       </td>
@@ -21,14 +21,14 @@ Feel free to get in touch!
           <div><img src="https://simpleicons.org/icons/css3.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>CSS 3</div>
       </td>
-      <td style="background: #61DAFB" width="85" align="center">
-          <div><img src="https://simpleicons.org/icons/react.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
-          <div>React</div>
-      </td>
       <td style="background: #563D7C" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/bootstrap.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Bootstrap</div>
-      </td>
+      </td>    
+      <td style="background: #61DAFB" width="85" align="center">
+          <div><img src="https://simpleicons.org/icons/react.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div>React</div>
+      </td>      
       <td style="background: #339933" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/node-dot-js.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Node.js</div>
