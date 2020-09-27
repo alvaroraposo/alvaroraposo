@@ -25,10 +25,10 @@ Feel free to get in touch!
           <div><img src="https://simpleicons.org/icons/react.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>React</div>
       </td>
-      <td style="background-color: #563D7C" width="80" align="center">
+      <div style="background: #563D7C" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/bootstrap.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Bootstrap</div>
-      </td> 
+      </div> 
   </tr>
 </table>
 <!--
