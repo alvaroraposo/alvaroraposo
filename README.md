@@ -55,6 +55,10 @@ Feel free to get in touch!
           <div>Amazon</div>
       </td>
       <td style="background: #232F3E" width="80" align="center">
+          <div><img src="https://simpleicons.org/icons/python.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div>Python</div>
+      </td>
+      <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/mongodb.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>MongoDB</div>
       </td>
