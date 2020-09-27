@@ -9,19 +9,19 @@ Feel free to get in touch!
 
 <table>
   <tr>
-      <td style="background: #E34F26" width="80" align="center">
+      <td style="background: #E34F26" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>HTML 5</div>                   
       </td>
-      <td style="background: #F7DF1E" width="80" align="center">
+      <td style="background: #F7DF1E" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/javascript.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Javascript</div>
       </td>
-      <td style="background: #1572B6" width="80" align="center">
+      <td style="background: #1572B6" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/css3.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>CSS 3</div>
       </td>
-      <td style="background: #61DAFB" width="80" align="center">
+      <td style="background: #61DAFB" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/react.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>React</div>
       </td>  
