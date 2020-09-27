@@ -1,26 +1,3 @@
-### Hi there 👋
-
-<table style="text-align:center;">
-  <tr> 
-      <td style="background: #0077B5" width="85" align="center">
-          <div>
-            <a href="https://www.linkedin.com/in/alvaro-raposo/">
-              <img alt="Linkedin" width="30px" src="https://simpleicons.org/icons/linkedin.svg" style="vertical-align:center; margin:4px" />
-            </a> 
-          </div>
-          <div>Linkedin</div>   
-      </td>
-      <td style="background: #6001D2" width="85" align="center">          
-          <div>
-            <a href="mailto:alvaroraposo@yahoo.com.br">
-              <img alt="E-Mail" width="30px" src="https://simpleicons.org/icons/yahoo.svg" style="vertical-align:center; margin:4px"/>
-            </a>
-          </div>
-          <div>E-Mail</div>   
-      </td>
-  </tr>
-</table>
-
 <table style="text-align:center;">
   <tr> 
       <td style="background: #E34F26" width="85" align="center">          
@@ -67,6 +44,29 @@
           <div><img src="https://simpleicons.org/icons/linux.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Linux</div>
       </td>    
+  </tr>
+</table>
+
+### Hi there 👋
+
+<table style="text-align:center;">
+  <tr> 
+      <td style="background: #0077B5" width="85" align="center">
+          <div>
+            <a href="https://www.linkedin.com/in/alvaro-raposo/">
+              <img alt="Linkedin" width="30px" src="https://simpleicons.org/icons/linkedin.svg" style="vertical-align:center; margin:4px" />
+            </a> 
+          </div>
+          <div>Linkedin</div>   
+      </td>
+      <td style="background: #6001D2" width="85" align="center">          
+          <div>
+            <a href="mailto:alvaroraposo@yahoo.com.br">
+              <img alt="E-Mail" width="30px" src="https://simpleicons.org/icons/yahoo.svg" style="vertical-align:center; margin:4px"/>
+            </a>
+          </div>
+          <div>E-Mail</div>   
+      </td>
   </tr>
 </table>
 
