@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<table>
+<table style="text-align:center;">
   <tr> 
       <td style="background: #0077B5" width="85" align="center">
           <div>
@@ -24,7 +24,7 @@ Feel free to get in touch!
 
 ### - Languages and Tools...
 
-<table>
+<table style="text-align:center;">
   <tr> 
       <td style="background: #E34F26" width="85" align="center">          
           <div><img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
