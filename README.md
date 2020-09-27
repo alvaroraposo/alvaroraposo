@@ -5,7 +5,7 @@
       <td style="color: #E34F26" width="85" align="center">
           <div>
             <a href="https://www.linkedin.com/in/alvaro-raposo/">
-              <img align="center" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />
+              <img alt="Linkedin" width="30px" src="https://simpleicons.org/icons/linkedin.svg" style="vertical-align:center; margin:4px" />
             </a> 
           </div>
           <div>Linkedin</div>   
@@ -13,7 +13,7 @@
       <td style="color: #E34F26" width="85" align="center">          
           <div>
             <a href="mailto:alvaroraposo@yahoo.com.br">
-              <img align="center" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/yahoo.svg" />
+              <img alt="E-Mail" width="30px" src="https://simpleicons.org/icons/yahoo.svg" style="vertical-align:center; margin:4px"/>
             </a>
           </div>
           <div>E-Mail</div>   
