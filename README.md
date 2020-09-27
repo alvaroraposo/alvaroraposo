@@ -20,9 +20,6 @@
       </td>
   </tr>
 </table>
-Feel free to get in touch!
-
-### - Languages and Tools...
 
 <table style="text-align:center;">
   <tr> 
