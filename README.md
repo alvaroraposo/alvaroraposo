@@ -9,7 +9,7 @@ Feel free to get in touch!
 
 <table>
   <tr>
-      <td color="#E34F26" style="background: #E34F26" width="85" align="center">
+      <td style="background-color: #E34F26" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>HTML 5</div>                   
       </td>
