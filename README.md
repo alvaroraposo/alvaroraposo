@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/alvaro-raposo/">
-  <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />
-</a>
+<table>
+  <tr> 
+      <td style="color: #E34F26" width="85" align="center">          
+          <a href="https://www.linkedin.com/in/alvaro-raposo/">
+            <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />
+          </a>                   
+      </td>
+      <td style="color: #E34F26" width="85" align="center">          
+          <a href="alvaroraposo@yahoo.com.br">
+            <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/yahoo.svg" />
+          </a>                   
+      </td>
+  </tr>
+</table>
 Feel free to get in touch!
 
 ### - Languages and Tools...
