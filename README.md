@@ -40,6 +40,24 @@
   </tr>
   <tr>
       <td style="background: #232F3E" width="80" align="center">
+          <div><img src="https://simpleicons.org/icons/docker.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div>Docker</div>
+      </td>
+      <td style="background: #232F3E" width="80" align="center">
+          <div><img src="https://simpleicons.org/icons/heroku.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div>Heroku</div>
+      </td>
+      <td style="background: #232F3E" width="80" align="center">
+          <div><img src="https://simpleicons.org/icons/netlify.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div>Netlify</div>
+      </td>
+      <td style="background: #232F3E" width="80" align="center">
+          <div><img src="https://simpleicons.org/icons/sqlserver.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div>SQL Server</div>
+      </td>
+  </tr>
+  <tr>
+      <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/amazonaws.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Amazon</div>
       </td>
@@ -58,7 +76,7 @@
   </tr>
 </table>
 
-- 👯 I’m looking to collaborate on new projects in which I can work from home.
+- 👯 I’m looking to collaborate on new projects in which I could work from home.
 
 ### Feel free to get in touch!
 
