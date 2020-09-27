@@ -28,7 +28,11 @@ Feel free to get in touch!
       <td style="background: #563D7C" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/bootstrap.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Bootstrap</div>
-      </td> 
+      </td>
+      <td style="background: #339933" width="80" align="center">
+          <div><img src="https://simpleicons.org/icons/node-dot-js.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div>Node.js</div>
+      </td>    
   </tr>
 </table>
 <!--
