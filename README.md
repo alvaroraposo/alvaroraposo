@@ -6,7 +6,8 @@
 Feel free to get in touch!
 
 ### - Languages and Tools...
-- ![#E34F26](https://via.placeholder.com/15/E34F26/000000?text=Teste) Teste
+<html>
+<body>
 <table>
   <tr>      
       <td bgcolor="#E34F26" width="85" align="center">          
@@ -35,6 +36,8 @@ Feel free to get in touch!
       </td>    
   </tr>
 </table>
+</body>
+</html>
 <!--
 **alvaroraposo/alvaroraposo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
