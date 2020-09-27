@@ -6,7 +6,7 @@
 Feel free to get in touch!
 
 ### - Languages and Tools...
-- ![#E34F26](Teste) Teste
+- ![#E34F26](https://via.placeholder.com/15/E34F26/000000?text=Teste) Teste
 <table>
   <tr>      
       <td bgcolor="#E34F26" width="85" align="center">          
