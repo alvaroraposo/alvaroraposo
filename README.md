@@ -15,7 +15,7 @@
           <div><img src="https://simpleicons.org/icons/css3.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>CSS 3</div>
       </td>
-      <td style="background: #563D7C" width="80" align="center">
+      <td style="background: #563D7C" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/bootstrap.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Bootstrap</div>
       </td>
@@ -25,25 +25,25 @@
           <div><img src="https://simpleicons.org/icons/react.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>React</div>
       </td>      
-      <td style="background: #339933" width="80" align="center">
+      <td style="background: #339933" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/node-dot-js.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Node.js</div>
       </td>
-      <td style="background: #232F3E" width="80" align="center">
+      <td style="background: #232F3E" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/python.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Python</div>
       </td> 
-      <td style="background: #232F3E" width="80" align="center">
+      <td style="background: #232F3E" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/csharp.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>C#</div>
       </td>  
   </tr>
   <tr>
-      <td style="background: #232F3E" width="80" align="center">
+      <td style="background: #232F3E" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/mongodb.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
           <div>Mongo DB</div>
       </td>
-      <td style="background: #232F3E" width="80" align="center">
+      <td style="background: #232F3E" width="85" align="center">
           <div><img src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
           <div>SQL Server</div>
       </td>
