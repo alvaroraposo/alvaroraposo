@@ -44,6 +44,10 @@
       <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/linux.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Linux</div>
+      </td>
+      <td style="background: #232F3E" width="80" align="center">
+          <div><img src="https://simpleicons.org/icons/visualstudiocode.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div>VS Code</div>
       </td>    
   </tr>
 </table>
