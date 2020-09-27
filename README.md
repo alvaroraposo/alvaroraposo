@@ -47,7 +47,7 @@
   </tr>
 </table>
 
-# Hi there 👋
+# Hi there 👋 - Glad to see you here, I hope you find something useful to you. Feel free to get in touch!
 
 <table style="text-align:center;">
   <tr> 
