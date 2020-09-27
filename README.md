@@ -2,16 +2,20 @@
 
 <table>
   <tr> 
-      <td style="color: #E34F26" width="85" align="center">                   
-          <a href="https://www.linkedin.com/in/alvaro-raposo/">
-            <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />
-          </a> 
+      <td style="color: #E34F26" width="85" align="center">
+          <div>
+            <a href="https://www.linkedin.com/in/alvaro-raposo/">
+              <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />
+            </a> 
+          </div>
           <div>Linkedin</div>   
       </td>
       <td style="color: #E34F26" width="85" align="center">          
-          <a href="mailto:alvaroraposo@yahoo.com.br">
-            <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/yahoo.svg" />
-          </a>                   
+          <div>
+            <a href="mailto:alvaroraposo@yahoo.com.br">
+              <img align="left" alt="Linkedin" width="30px" src="https://simpleicons.org/icons/yahoo.svg" />
+            </a>
+          </div>
           <div>E-Mail</div>   
       </td>
   </tr>
