@@ -1,4 +1,6 @@
 # Hi there 👋 
+## Glad to see you here, I hope you find something useful to you. 
+### Here are some technologies and tools I've already worked with.
 <table style="text-align:center;">
   <tr> 
       <td style="background: #E34F26" width="85" align="center">          
@@ -44,15 +46,10 @@
       <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/linux.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Linux</div>
-      </td>
-      <td style="background: #232F3E" width="80" align="center">
-          <div><img src="https://simpleicons.org/icons/visualstudiocode.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
-          <div>VS Code</div>
-      </td>    
+      </td>   
   </tr>
 </table>
 
-## Glad to see you here, I hope you find something useful to you. 
 ### Feel free to get in touch!
 
 <table style="text-align:center;">
