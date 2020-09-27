@@ -58,6 +58,8 @@
   </tr>
 </table>
 
+- 👯 I’m looking to collaborate on new projects in which I can work from home.
+
 ### Feel free to get in touch!
 
 <table style="text-align:center;">
