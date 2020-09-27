@@ -2,7 +2,7 @@
 
 <table>
   <tr> 
-      <td style="color: #E34F26" width="85" align="center">
+      <td style="background: #0077B5" width="85" align="center">
           <div>
             <a href="https://www.linkedin.com/in/alvaro-raposo/">
               <img alt="Linkedin" width="30px" src="https://simpleicons.org/icons/linkedin.svg" style="vertical-align:center; margin:4px" />
@@ -10,7 +10,7 @@
           </div>
           <div>Linkedin</div>   
       </td>
-      <td style="color: #E34F26" width="85" align="center">          
+      <td style="background: #6001D2" width="85" align="center">          
           <div>
             <a href="mailto:alvaroraposo@yahoo.com.br">
               <img alt="E-Mail" width="30px" src="https://simpleicons.org/icons/yahoo.svg" style="vertical-align:center; margin:4px"/>
@@ -26,7 +26,7 @@ Feel free to get in touch!
 
 <table>
   <tr> 
-      <td style="color: #E34F26" width="85" align="center">          
+      <td style="background: #E34F26" width="85" align="center">          
           <div><img src="https://simpleicons.org/icons/html5.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>HTML 5</div>                   
       </td>
