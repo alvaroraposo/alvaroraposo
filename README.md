@@ -45,7 +45,7 @@
       </td>
       <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/microsoftsqlserver.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
-          <div>Heroku</div>
+          <div>SQL Server</div>
       </td>
       <td style="background: #232F3E" width="80" align="center">
           <div><img src="https://simpleicons.org/icons/amazonaws.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>          
@@ -58,7 +58,7 @@
   </tr>
   <tr>
       <td style="background: #232F3E" width="80" align="center">
-          <div><img src="https://simpleicons.org/icons/netlify.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>>
+          <div><img src="https://simpleicons.org/icons/netlify.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Netlify</div>
       </td>
       <td style="background: #232F3E" width="80" align="center">
