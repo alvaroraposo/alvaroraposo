@@ -76,7 +76,7 @@
   </tr>
 </table>
 
-- 👯 I’m looking to collaborate on new projects in which I could work from home.
+- 👯 I’m looking to collaborate on new projects.
 
 ### Feel free to get in touch!
 
