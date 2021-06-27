@@ -26,7 +26,7 @@
           <div>React</div>
       </td>      
       <td style="background: #339933" width="150" align="center">
-          <div><img src="https://simpleicons.org/icons/node-dot-js.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
+          <div><img src="https://simpleicons.org/icons/nodedotjs.svg" width="30" alt="HTML" style="vertical-align:center; margin:4px"/></div>
           <div>Node.js</div>
       </td>
       <td style="background: #232F3E" width="150" align="center">
