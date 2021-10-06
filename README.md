@@ -75,8 +75,9 @@
       </td>
   </tr>
 </table>
-
+<!--
 - 👯 I’m looking to collaborate on new projects.
+-->
 
 ### Feel free to get in touch!
 
